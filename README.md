@@ -2,7 +2,7 @@
 
 binance-forensics-hack-dashboard is an interactive on-chain forensics web application designed to trace and visualize simulated security incidents and illicit fund flows across multiple blockchains including Ethereum, Arbitrum, BNB Chain, and Solana.
 
-Website link: https://on-chain-forensics-dashboard.v0.build/
+Website link: https://binance-forensics-hack-dashboard.vercel.app
 ## 🚀 Features
 
 * **Interactive Node Graph Visualizer:** Explore wallet clusters, bridge contracts, and DEX pools color-coded by asset status (Ingress, Frozen, Converted, Rescued).
